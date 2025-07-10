@@ -1,0 +1,4170 @@
+{
+  "诗人": [
+    {
+      "name": "鲍氏君徽",
+      "identity": "诗人",
+      "original_identity": "诗人、文人",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": null,
+          "content": "中唐",
+          "activities": "鲍徵君女，善诗，早寡，无兄弟，奉母以生，与尚宫五宋（宋若昭五姐妹）齐名。德宗尝召入宫，与侍臣赓和，赏赉甚厚。入宫不久，既以奉养老母为由,上疏乞归。",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "奉和麟德殿宴百僚应[制]",
+          "content": "['睿泽先寰海，功成展武韶。', '戈鋋清外垒，文物盛中朝。', '圣祚山河固，宸章日月昭。', '玉筵鸾鹄集，仙管凤皇调。', '御柳新低绿，宫莺乍啭娇。', '愿将[亿]兆庆，千祀奉神尧。']",
+          "activities": "宫廷宴会；欣赏自然景观：柳树",
+          "location": "皇宫",
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "惜花吟",
+          "content": "['枝上花，花下人，可怜颜色俱青春。', '昨日看花花灼灼，今朝看花花欲落。', '不如尽此花下欢，莫待春风总吹却。', '莺歌蝶舞韶光长，红炉煑茗松花香。', '妆成罢吟恣游后，独把芳枝归洞房。']",
+          "activities": "欣赏自然景观：花、蝴蝶、黄鹂吟唱",
+          "location": null,
+          "time": "春天",
+          "emotion": "中性"
+        }
+      ]
+    },
+    {
+      "name": "宋若宪",
+      "identity": "诗人",
+      "original_identity": "女官、诗人",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "贝州",
+          "content": "中唐",
+          "activities": "宋氏五女（若华、若昭、若伦、若宪、若荀）在当年的名气是非常响亮的，是著名诗人宋之问的后裔。五个女子却冰雪聪明，博学多识，不亚于那些金榜上的举子，成为名噪一时的唐代五朵金花。",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "宋若昭",
+      "identity": "诗人",
+      "original_identity": "女官、诗人",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "贝州",
+          "content": "中唐",
+          "activities": "宋氏五女（若华、若昭、若伦、若宪、若荀）在当年的名气是非常响亮的，是著名诗人宋之问的后裔。五个女子却冰雪聪明，博学多识，不亚于那些金榜上的举子，成为名噪一时的唐代五朵金花。",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "文德皇后",
+      "identity": "诗人",
+      "original_identity": "开篇“上苑桃花朝日明，兰闺艳妾动春情”两句，通过鲜明的桃花与温婉的兰花，展现了春天的生机与女主的春心萌动。紧接着，“井上新桃偷面色，檐边嫩柳学身轻”进一步描绘了自然界中生长着的新桃和细柳，它们似乎在模仿人类的举止，既展示了诗人对大自然的观察之细致，也表达了一种拟人化的审美情趣。\n“花中来去看舞蝶，树上长短听啼莺”两句，则转向了小动物，即蝴蝶与鸟儿，它们在花间翩翩起舞，在树梢上唱着歌。这样的描写，不仅丰富了画面，更添了一份生动的节奏感。\n最后，“林下何须远借问，出众风流旧有名”两句，诗人似乎在自信地表达，对于这片林中的美景，无需向别处求证，因为这里早已有着不俗的风光和久远的美誉。这也从侧面反映了诗人的自豪之情。\n整首诗通过对春日自然景观的细腻描绘，展现了一种生机勃勃、生动活泼的意境，同时也透露出诗人对这份美好的一种珍视和自信。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "春游曲",
+          "content": "['上苑桃花朝日明，兰闺艳妾动春情。', '井上新桃偷面色，檐边嫩柳学身轻。', '花中来去看舞蝶，树上长短听啼莺。', '林下何须远借问，出众风流旧有名。']",
+          "activities": "欣赏自然风景：桃花 兰花 嫩柳 蝴蝶 鸟",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "杨贵妃",
+      "identity": "诗人",
+      "original_identity": "这首诗描绘了一幅生动的画面，通过对自然景象和舞蹈动作的细腻描写，展现了诗人对美好事物的欣赏与赞美。其中，“罗袖动香香不已”一句，既描绘了舞者优雅的舞姿，也传达了舞蹈带来的香气和愉悦感受；“红蕖袅袅秋烟里”则通过对环境的描写，营造出一种淡远而神秘的氛围。\n下半首“轻云岭上乍摇风”，形象地表达了自然界中风的细腻与柔和；“嫩柳池边初拂水”则描绘了一幅生机勃勃的景象，柳枝在水边轻轻触碰，传递出一种春意盎然之感。\n整首诗通过对视觉、嗅觉以及动态美的细腻刻画，展现了诗人深厚的情感和高超的艺术造诣。",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "赠张云容舞",
+          "content": "['罗袖动香香不已，红蕖褭褭秋烟里。', '轻云岭上乍摇风，嫩柳池边初拂水。']",
+          "activities": "欣赏舞蹈 欣赏自然风景：风 柳 水",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "句",
+          "content": "['迎娘歌喉玉䆗窱，蛮儿舞带金葳蕤。', '（《断肠诗集前集》卷六《会魏夫人席上……》郑元佐注引《群玉杂俎》引《杨妃外传》引。', '今本《杨妃外传》无此二句。', '诗当出依托。', '）。']",
+          "activities": "欣赏歌舞表演",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "程氏长文",
+      "identity": "诗人",
+      "original_identity": "诗中“君王去后行人绝”表明了权力的转移和遗址的冷清，而“箫筝不响歌喉咽”则透露出音乐与歌声的消逝，反映出一种文化艺术的断裂。“雄剑无威光彩沈，宝琴零落金星灭”更是这种凋敝感的延伸，强调了曾经的辉煌如今已不复存在。\"玉阶寂寞坠秋露，月照当时歌舞处\"则将自然景象与人事兴衰对比，突出了时间流逝带来的孤寂与凄凉。而最后“当时歌舞人不回，化为今日西陵灰”则是对过往繁华生活的最终命运进行了深刻的总结，表达了一种历史沧桑、物变星移的情感体验。\n这首诗通过对比和对照，展现了一个曾经辉煌的时代已经逝去，只留下空寂与回忆。诗人以深沉的笔触，描绘出过往的荣华与今日的荒凉，以及时间流逝带来的无情变迁，从而表达了对历史、时光和生命消长的深切感慨。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "相和歌辞 雀台怨",
+          "content": "['君王去后行人绝，萧竽不响歌喉咽。', '雄劒无威光彩沈，宝琴零落金星灭。', '玉阶寂寂坠秋露，月照当时歌舞处。', '当时歌舞人不回，化为今日西陵灰。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "郎大家宋氏",
+      "identity": "诗人",
+      "original_identity": "诗人",
+      "poem_count": 7,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "相和歌辞 朝云引",
+          "content": "['巴西巫峡指巴东，朝云触石上朝空。', '巫山巫峡高何已，行雨行云一时起。', '一时起，三春暮。', '若言来，且就阳台路。']",
+          "activities": "登山远眺",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "琴曲歌辞 宛转歌 一",
+          "content": "['风已清，月朗琴复鸣。', '掩抑非千态，殷勤是一声。', '歌宛转，宛转和且长。', '愿为双鸿鹄，比翼共翱翔。']",
+          "activities": "弹奏琴瑟",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "刘氏媛",
+      "identity": "诗人",
+      "original_identity": "这是一首表达深沉哀愁和对往昔恩情的怀念之情的诗句。开篇“雨滴长门秋夜长”，设定了一个孤独、寂寞而又湿润的环境，通过细雨绵长的描写，渲染出一片萧瑟之气，反映了诗人内心的忧郁。长门在此不仅是物理空间，也象征着被遗忘和隔绝的心灵状态。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "相和歌辞 长门怨二首 一",
+          "content": "['雨滴梧桐秋夜长，愁心和雨到昭阳。', '泪痕不学君恩断，拭却千行更万行。']",
+          "activities": "欣赏自然景物（秋雨）；表达对过去的怀念",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "姚月华",
+      "identity": "诗人",
+      "original_identity": "女诗人、才女",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "怨诗效徐淑体",
+          "content": "['妾生兮不辰，盛年兮逢屯。', '寒暑兮心结，夙夜兮眉颦。', '循环兮不息，如彼兮车轮。', '车轮兮可歇，妾心兮焉伸。', '杂沓兮无绪，如彼兮丝棼。', '丝棼兮可理，妾心兮焉分。', '空闺兮岑寂，妆阁兮生尘。', '萱草兮徒树，兹忧兮岂泯。', '幸逢兮君子，许结兮殷勤。', '分香兮翦发，赠玉兮共珍。', '指天兮结誓，愿为兮一身。', '所遭兮多舛，玉体兮难亲。', '损餐兮减寝，带缓兮罗裙。', '菱鉴兮慵启，博𬬻兮焉熏。', '整袜兮欲举，塞路兮荆榛。', '逢人兮欲语，鞈匝兮顽嚚。', '烦冤兮凭胸，何时兮可论。', '愿君兮见察，妾死兮何瞋。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "制履赠杨达",
+          "content": "['金刀翦紫羢，与郎作轻履。', '愿化双仙凫，飞来入闺里。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "张夫人",
+      "identity": "诗人",
+      "original_identity": "诗人、士大夫妻女",
+      "poem_count": 6,
+      "sample_poems": [
+        {
+          "title": "楚州山阳",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "“大历十才子”之一吉中孚妻子"
+        },
+        {
+          "title": "古意",
+          "content": "['辘轳晓转素丝绠，桐声夜落苍苔塼。', '涓涓吹溜若时雨，濯濯佳蔬非用天。', '丈夫不解此中意，抱瓮当时徒自贤。']",
+          "activities": "欣赏自然景物",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "柳絮",
+          "content": "['霭霭芳春朝，雪絮起青条。', '或值花同舞，不因风自飘。', '过尊浮绿醑，拂幌缀红绡。', '那用持愁玩，春怀不自聊。']",
+          "activities": "欣赏自然景物（柳絮）;饮酒",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "崔萱",
+      "identity": "诗人",
+      "original_identity": "诗人、工于文",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "古意",
+          "content": "['灼灼叶中花，夏萎春又芳。', '明明天上月，蟾缺圆复光。', '未如君子情，朝违夕已忘。', '玉帐枕犹暖，纨扇思何长。', '愿因西南风，吹上玳瑁床。', '娇眠锦衾里，展转双鸳鸯。']",
+          "activities": "欣赏自然景物（花、月亮）；思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "叙别",
+          "content": "['碧池漾漾春水绿，中有佳禽暮栖宿。', '愿持此意永相贻，祗虑君情中反复。']",
+          "activities": "欣赏自然景物（池塘）；思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "葛氏女",
+      "identity": "诗人",
+      "original_identity": "诗人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "和潘雍",
+          "content": "['九天天远瑞烟浓，驾鹤骖鸾意已同。', '从此三山山上月，琼花开处照春风。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "葛鵶儿",
+      "identity": "诗人",
+      "original_identity": "诗人、文人",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "怀良人",
+          "content": "['蓬鬓荆钗世所稀，布裙犹是嫁时衣。', '胡麻好种无人种，正是归时不见归。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "会仙诗 一",
+          "content": "['彩凤摇摇下翠微，烟光漠漠徧芳枝。', '玉窗仙会何人见，唯有春风仔细知。']",
+          "activities": "仙境神游",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "廉氏",
+      "identity": "诗人",
+      "original_identity": "诗人、文人",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "峡中即事",
+          "content": "['清秋三峡此中去，鸣鸟孤猨不可闻。', '一道水声多乱石，四时天色少晴云。', '日暮泛舟溪溆口，那堪夜永思氛氲。']",
+          "activities": "游玩三峡",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "怀远",
+          "content": "['隟尘何微微，朝夕通其辉。', '人生各有托，君去独不归。', '青林有蝉响，赤日无鸟飞。', '裴回东南望，双泪空沾衣。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "裴羽仙",
+      "identity": "诗人",
+      "original_identity": "诗人、文人",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "哭夫二首 一",
+          "content": "['风卷平沙日欲曛，狼烟遥认犬羊群。', '李陵一战无归日，望断胡天哭塞云。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "哭夫二首 二",
+          "content": "['良人平昔逐蕃浑，力战轻行出塞门。', '从此不归成万古，空留贱妾怨黄昏。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    }
+  ],
+  "其他": [
+    {
+      "name": "鲍君徽",
+      "identity": "其他",
+      "original_identity": "\"残芳\"指的是春天即将凋谢的花朵，\"?兰\"则是兰花的芬芳。\"馥\"字用来形容香气浓郁，而\"照水何花红\"则是在问，水中倒映着哪一种花朵的红色？",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "入南涧",
+          "content": "['残芳𦶜兰馥，照水何花红。']",
+          "activities": "欣赏自然景观：残花与兰花",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "闲[宵]（霄）望月",
+          "content": "['转扇来清风，援琴飞白雪。']",
+          "activities": "弹琴作乐",
+          "location": null,
+          "time": null,
+          "emotion": "中性"
+        },
+        {
+          "title": "晚眺",
+          "content": "['远树拥川断，晴云抱日流。', '（均见《吟窗杂录》卷三十《古今才妇》）。']",
+          "activities": "欣赏自然景观：树、河流、云、太阳",
+          "location": null,
+          "time": null,
+          "emotion": "中性"
+        }
+      ]
+    },
+    {
+      "name": "尚宫宋氏若宪",
+      "identity": "其他",
+      "original_identity": "恭敬地接受美好的使命，时代清平全靠圣明的君主。\n四方的智慧都听说君主能接受劝谏，边远地区的人们也来朝见君王。\n景色明媚黄莺开始啼唱，春天将尽白昼却愈发漫长。\n庆典宴席上人多而整齐，盛大的音乐响亮而和谐。\n酆镐这样的盛世谁能匹敌，横汾的盛况也无法比拟。\n祈愿君王如山岳般长寿，福祉永远没有尽头。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "奉和御制麟德殿宴百官",
+          "content": "['端拱承休命，时清荷圣皇。', '四聪闻受谏，五服远朝王。', '景媚莺初啭，春残日更长。', '命筵多济济，盛乐复锵锵。', '酆镐谁将敌，横汾未可方。', '愿齐山岳寿，祉福永无疆。']",
+          "activities": "宴会",
+          "location": null,
+          "time": "春天",
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "尚宫宋氏若昭",
+      "identity": "其他",
+      "original_identity": "身着朝服临天下，四方之门庄严通。\n自然无为而治国，并非全靠臣子功。\n提倡教化迎归隐，崇尚武力除妖凶。\n德行光辉如日中，皇恩似雨露丰盈。\n臣子衣冠齐赴宴，礼仪音乐盛世荣。\n举杯祝君寿无疆，千年盛世共景仰。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "奉和御制麟德殿宴百僚应制",
+          "content": "['垂衣临八极，肃穆四门通。', '自是无为化，非关辅弼功。', '修文招隐伏，尚武殄妖凶。', '德炳韶光炽，恩沾雨露浓。', '衣冠陪御宴，礼乐盛朝宗。', '万寿称觞举，千年信一同。']",
+          "activities": "宴会",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "则天皇后",
+      "identity": "其他",
+      "original_identity": "\"羲农首出，轩昊膺期\"借古圣贤之名，彰显帝王继承前朝正统的意志。\"唐虞继踵，汤禹乘时\"则进一步强调了这一点，表明新兴的政权与古代圣君同样能够顺应天时，施行仁政。\n\"天下光宅，海内雍熙\"描绘了一幅太平盛世的画面，天下安居，国家安宁。\"上玄降鉴，方建隆基\"则是说皇帝受到上天的启示和保护，正大力构筑坚固的国基。\n整首诗通过对古代圣王的引用，以及对现实太平盛世的描绘，表现了武则天对于自己政权合法性和稳定性的强烈自信，同时也是一种对臣民的宣告与警示。",
+      "poem_count": 39,
+      "sample_poems": [
+        {
+          "title": "曳鼎歌",
+          "content": "['羲农首出，轩昊膺期。', '唐虞继踵，汤禹乘时。', '天下光宅，海内雍熙。', '上玄降鉴，方建隆基。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "唐享昊天乐 第一",
+          "content": "['太阴凝至化，真耀蕴轩仪。', '德迈娥台敞，仁高[姒]幄披。', '扪天遂启极，梦日乃升曦。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "唐享昊天乐 第二",
+          "content": "['瞻紫极，望玄穹。', '翘至恳，罄深衷。', '听虽远，诚必通。', '垂厚泽，降云宫。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "刘瑶",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "刘氏瑶",
+      "identity": "其他",
+      "original_identity": "槐树开花结果，梧桐叶却已枯黄，孤鸟独自飞翔在青空哀鸣。\n翠绿的轩窗如云般轻轻摇曳，燕脂般的泪水滴落，划出红色的痕迹。\n瑶草失去了芳香，内心忧虑，玉佩静默，画屏显得冷清。\n琴弦悄然无声，因为无人弹奏，只有风吹过，花影在月光下摇曳。\n青鸾深情地向西飞去，广阔天地间不知何处是归宿。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "杂曲歌辞 暗别离",
+          "content": "['槐花结子桐叶焦，单飞越鸟嗁青霄。', '翠轩辗云轻遥遥，燕脂泪迸红线条。', '瑶草歇芳心耿耿，玉佩无声画屏冷。', '朱弦暗断不见人，风动花枝月中影。', '青鸾脉脉西飞去，海阔天高不知处。']",
+          "activities": "离别；欣赏自然景物（槐树，梧桐，孤鸟，月光）",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "刘媛",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 6,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "长门怨 一",
+          "content": "['雨滴梧桐秋夜长，愁心和雨到昭阳。', '泪痕不学君恩断，拭却千行更万行。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "刘云",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "有所思",
+          "content": "['朝亦有所思，暮亦有所思。', '登楼望君处，蔼蔼萧关道。', '掩泪向浮云，谁知妾怀抱。', '玉井苍苔春院深，桐花落尽无人埽。']",
+          "activities": "登高远眺；思念情人",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "望月",
+          "content": "['天汉凉秋夜，澄澄一镜明。', '山空猨屡啸，林静鹊频惊。']",
+          "activities": "赏秋；欣赏自然景物（天空、树林）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "刘氏云",
+      "identity": "其他",
+      "original_identity": "皇上的恩情难以察觉，我岂能像秋扇被抛弃。\n秋扇虽然有时会被遗忘，但我此生只会永远卑微。\n不要说早晨的花朵不再凋零，我的美貌曾几何时几乎夺走昭阳殿的宠爱。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "相和歌辞 倢伃怨",
+          "content": "['君恩不可见，妾岂如秋扇。', '秋扇尚有时，妾身永微贱。', '莫言朝花不复落，娇容几夺昭阳殿。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "田娥",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "杂曲歌辞 携手曲",
+          "content": "['携手共惜芳菲节，莺啼锦花满城阙。', '行乐逶迤念容色，色衰祗恐君恩歇。', '凤笙龙管白日阴，盈亏自感青天月。']",
+          "activities": "游乐；（担心容颜衰退）",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "句",
+          "content": "['春至偏无兴，秋来秪是眠。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "姚氏月华",
+      "identity": "其他",
+      "original_identity": "春天的江水缓缓流淌，岸边青草一片翠绿。\n面对这美景，我不禁思念起你，泪水不断落下。",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "相和歌辞 怨诗二首 一",
+          "content": "['春水悠悠春水绿，对此思君泪相续。', '羞将离恨向东风，理尽秦筝不成曲。']",
+          "activities": "欣赏自然景物（江水，青草）；思念亲人；弹琴",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "相和歌辞 怨诗二首 二",
+          "content": "['与君形影分胡越，玉枕终年对离别。', '登台北望烟雨深，回身泣向寥天月。']",
+          "activities": "描写自然景物（烟，雨）；思念亲人",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "吉中孚妻张氏",
+      "identity": "其他",
+      "original_identity": "此诗描绘了一个拜月的场景，通过对比昔日与今日的拜月情形，表达了时光易逝、人事变迁的感慨。开篇“拜新月，拜月出堂前”直接带领读者进入拜月之礼，\"暗魄初笼桂，虚弓未引弦\"则描绘出明月初升的景象，并以此作为背景，烘托出主人公对月的情怀。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "杂曲歌辞 拜新月",
+          "content": "['拜新月，拜月出堂前。', '暗魄深笼桂，虚弓未引弦。', '拜新月，拜月妆楼上。', '鸾镜未安台，蛾眉已相向。', '拜新月，拜月不胜情，庭前风露清。', '月临人自老，望月更长生。', '东家阿母亦拜月，一拜一悲声断绝。', '昔年拜月逞容仪，如今拜月双泪垂。', '回看众女拜新月，却忆红闺年少时。']",
+          "activities": "欣赏自然景物（月亮）；表达对时光流逝的感慨",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "崔莺莺",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "荅张生",
+          "content": "['待月西厢下，迎风户半开。', '拂墙花影动，疑是玉人来。']",
+          "activities": "赏月；赏花",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "寄诗",
+          "content": "['自从销瘦减容光，万转千回嬾下床。', '不为傍人羞不起，为郎憔悴却羞郎。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "孟氏",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "寿春",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "寿春妓，后归维扬万贞妻"
+        },
+        {
+          "title": "独游家园",
+          "content": "['可惜春时节，依前独自游。', '无端两行泪，长只对花流。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "荅少年",
+          "content": "['谁家少年儿，心中暗自欺。', '不道终不可，可即恐郎知。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "慎氏",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "毗陵儒家女",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "蕲春严灌夫妻"
+        },
+        {
+          "title": "感夫诗",
+          "content": "['当时心事已相关，雨散云飞一饷间。', '便是孤帆从此去，不堪重上望夫山。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "楚儿",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "贻郑昌图",
+          "content": "['应是前生有宿冤，不期今世恶因缘。', '蛾眉欲碎巨灵掌，鸡肋难胜子路拳。', '秪拟吓人传铁券，未应教我踏青莲。', '曲江昨日君相遇，当下遭他数十鞭。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "关盼盼",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 6,
+      "sample_poems": [
+        {
+          "title": "徐州妓",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "张建封妾"
+        },
+        {
+          "title": "燕子楼三首 一",
+          "content": "['楼上残灯伴晓霜，独眠人起合欢床。', '相思一夜情多少，地角天涯不是长。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "燕子楼三首 二",
+          "content": "['北邙松柏锁愁烟，燕子楼中思悄然。', '自埋劒履歌尘散，红袖香销一十年。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "京兆女子",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题兴元明珠亭",
+          "content": "['寂寥满地落花红，独有离人万恨中。', '回首池塘更无语，手弹珠泪与春风。']",
+          "activities": "欣赏自然景物（花、池塘）",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "李主簿姬",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄诗",
+          "content": "['去时盟约与心违，秋日离家春不归。', '应是维扬风景好，恣情欢笑到芳菲。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "莲花妓",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "豫章",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "陈陶隐居南昌西山时有交集"
+        },
+        {
+          "title": "献陈陶处士",
+          "content": "['莲花为号玉为腮，珍重尚书遣妾来。', '处士不生巫峡梦，虚劳神女下阳台。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "刘采春",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "越州",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "啰唝曲六首 一",
+          "content": "['不喜秦淮水，生憎江上船。', '载儿夫壻去，经岁又经年。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "啰唝曲六首 二",
+          "content": "['借问东园柳，枯来得几年。', '自无枝叶分，莫怨太阳偏。']",
+          "activities": "欣赏自然景物（柳树）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "平康妓",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "平康",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "与裴思谦有交集"
+        },
+        {
+          "title": "赠裴思谦",
+          "content": "['银釭斜背解明珰，小语偷声贺玉郎。', '从此不知兰麝贵，夜来新惹桂枝香。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "盛小丛",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "越妓",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "与李讷（浙东廉史）有交集"
+        },
+        {
+          "title": "突厥三台",
+          "content": "['雁门山上雁初飞，马邑阑中马正肥。', '日旰山西逢驿使，殷勤南北送征衣。']",
+          "activities": "欣赏自然景物（落日、大雁）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "史凤",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 8,
+      "sample_poems": [
+        {
+          "title": "宣城",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "迷香洞",
+          "content": "['洞口飞琼佩羽霓，香风飘拂使人迷。', '自从邂逅芙蓉帐，不数桃花流水溪。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "神鸡枕",
+          "content": "['枕绘鸳鸯久与栖，新裁雾縠鬬神鸡。', '与郎酣梦浑忘晓，鸡亦留连不肯啼。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "王福娘",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "解梁",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题孙棨诗后",
+          "content": "['苦把文章邀劝人，吟看好个语言新。', '虽然不及相如赋，也直黄金一二斤。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "问棨诗",
+          "content": "['日日悲伤未有图，嬾将心事话凡夫。', '非同覆水应收得，只问仙郎有意无。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "王苏苏",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "和李标",
+          "content": "['怪得犬惊鸡乱飞，羸童瘦马老麻衣。', '阿谁乱引闲人到，留住青蚨热赶归。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "武昌妓",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "武昌",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "与韦蟾有交集"
+        },
+        {
+          "title": "续韦蟾句",
+          "content": "['悲莫悲兮生别离，登山临水送将归。', '武昌无限新栽柳，不见杨花扑面飞。']",
+          "activities": "登山；送别情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "舞柘枝女",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "京兆",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "韦应物爱姬所生，流落潭州。与李翱有交集"
+        },
+        {
+          "title": "献李观察",
+          "content": "['湘江舞罢忽成悲，便脱蛮靴出绛帷。', '谁是蔡邕琴酒客，魏公怀旧嫁文姬。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "襄阳妓",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "襄阳",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "与贾中郎、武补阙有交集"
+        },
+        {
+          "title": "送武补阙",
+          "content": "['弄珠滩上欲销魂，独把离怀寄酒尊。', '无限烟花不留意，忍教芳草怨王孙。']",
+          "activities": "饮酒",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "徐月英",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "江淮",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "叙怀",
+          "content": "['为失三从泣泪频，此身何用处人伦。', '虽然日逐笙歌乐，长羡荆钗与布裙。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "送人",
+          "content": "['惆怅人间万事违，两人同去一人归。', '生憎平望亭前水，忍照鸳鸯相背飞。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "薛琼",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "赋荆门",
+          "content": "['黄鸟翻红树，青牛卧绿苔。', '渚宫歌舞地，轻雾锁楼台。']",
+          "activities": "观察动物（黄鸟、青牛）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "杨莱儿",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "荅小子弟诗",
+          "content": "['黄口小儿口莫凭，逡巡看取第三名。', '孝廉持水添缾子，莫向街头乱椀鸣。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "和赵光远题壁",
+          "content": "['长者车尘每到门，长卿非慕卓王孙。', '定知羽翼难随凤，却喜波涛未化鲲。', '娇别翠钿黏去袂，醉歌金雀碎残尊。', '多情多病年应促，早办名香为返魂。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "越溪杨女",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "联句",
+          "content": "['珠帘半床月，青竹满林风。', '何事今宵景，无人解语同。']",
+          "activities": "赏月、听风声",
+          "location": null,
+          "time": null,
+          "emotion": "中性"
+        },
+        {
+          "title": "春日",
+          "content": "['春尽花随尽，其如自是花。', '从来说花意，不过此容华。', '明月易亏轮，好花难恋春。', '常将花月恨，幷作可怜人。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "张琰",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "春词二首 一",
+          "content": "['垂柳鸣黄鹂，关关若求友。', '春情不可耐，愁杀闺中妇。', '日暮登高楼，谁怜小垂手。']",
+          "activities": "登高楼",
+          "location": null,
+          "time": "春日",
+          "emotion": "消极"
+        },
+        {
+          "title": "春词二首 二",
+          "content": "['昨日桃花飞，今朝梨花吐。', '春色能几时，那堪此愁绪。', '荡子游不归，春来泪如雨。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "张窈窕",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 7,
+      "sample_poems": [
+        {
+          "title": "蜀",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄故人",
+          "content": "['淡淡春风花落时，不堪愁望更相思。', '无金可买长门赋，有恨空吟团扇诗。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "上成都在事",
+          "content": "['昨日卖衣裳，今日卖衣裳。', '衣裳浑卖尽，羞见嫁时箱。', '有卖愁仍缓，无时心转伤。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "张瑛",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "铜雀台",
+          "content": "['君王冥漠不可见，铜雀歌舞空裴回。', '西陵啧啧悲宿鸟，高殿沈沈闭青苔。', '青苔无人迹，红粉空相哀。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "望月",
+          "content": "['天汉凉秋夜，澄澄一镜明。', '山空猨屡啸，林静鹤频惊。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "长孙佐转妻",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": "长孙佐转妻",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "荅外",
+          "content": "['征人去年戍边水，夜得边书字盈纸。', '挥刀就烛裁红绮，结作同心荅千里。', '君寄边书书莫绝，妾荅同心心自结。', '同心再解不心离，离字频看字愁灭。', '结成一衣和泪封，封书只在怀袖中。', '莫如书故字难久，愿学同心长可同。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "赵鸾鸾",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "平康",
+          "content": "不明",
+          "activities": "平康名妓",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "云鬟",
+          "content": "['扰扰香云湿未干，鸦领蝉翼腻光寒。', '侧边斜插黄金凤，妆罢夫君带笑看。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "柳眉",
+          "content": "['弯弯柳叶愁边戏，湛湛菱花照处频。', '妩媚不烦螺子黛，春山画出自精神。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "卓英英",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "成都",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "锦城春望",
+          "content": "['和风装点锦城春，细雨如丝压玉尘。', '漫把诗情访奇景，艳花浓酒属闲人。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "理笙",
+          "content": "['频倚银屏理凤笙，调中幽意起春情。', '因思往事成惆怅，不得缑山和一声。']",
+          "activities": "弹奏凤凰琴",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "安邑坊女",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "幽恨诗",
+          "content": "['卜得上峡日，秋江风浪多。', '巴陵一夜雨，肠断木兰歌。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "曾崇范妻",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "梦中语",
+          "content": "['田头有鹿迹，由尾著日炙。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "独孤遐叔妻白氏",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "梦中歌",
+          "content": "['今夕何夕，存耶没耶。', '良人去兮天之涯，园树伤心兮三见花。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "故台城妓",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "诗",
+          "content": "['歌罢玉楼月，舞残金缕衣。', '匀钿收迸节，歛黛别重闱。', '网断蛛犹织，梁春燕不归。', '那堪回首处，江步野棠飞。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "金陵词",
+          "content": "['宫中细草香红湿，宫内纤腰碧窗泣。', '唯有虹梁春燕雏，犹傍珠帘玉钩立。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "金车美人",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与谢翶赠荅诗 一",
+          "content": "['阳台后会杳无期，碧树烟深玉漏迟。', '半夜香风满庭月，花前空赋别离诗。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与谢翶赠荅诗 二",
+          "content": "['相思无路莫相思，风里花开只片时。', '惆怅金闺却归去，晓莺啼断绿杨枝。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "客户里女子",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "赠段何",
+          "content": "['乐广清羸经几年，姹娘相托不论钱。', '轻盈妙质归何处，惆怅碧楼红玉钿。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "刘氏亡妇",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题明月堂二首 一",
+          "content": "['蝉鬓惊秋华发新，可怜红隙尽埃尘。', '西山一梦何年觉，明月堂前不见人。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题明月堂二首 二",
+          "content": "['玉钩风急响丁东，回首西山似梦中。', '明月堂前人不到，庭前一夜老秋风。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "苏检妻",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与夫同咏诗 一",
+          "content": "['楚水平如镜，周回白鸟飞。', '金陵几多地，一去不知归。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与夫同咏诗 二",
+          "content": "['还吴东去过澄城，楼上清风酒半醒。', '想得到家春已暮，海棠千树已凋零。']",
+          "activities": "喝酒",
+          "location": null,
+          "time": "春日",
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "王氏妇",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 7,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与李章武赠荅诗 三",
+          "content": "['河汉已倾斜，神魂欲超越。', '愿郎更回抱，终天从此诀。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与李章武赠荅诗 四",
+          "content": "['分从幽显隔，岂谓有佳期。', '宁辞重重别，所叹去何之。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "张生妻",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 7,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "梦中歌 一",
+          "content": "['叹衰草，络纬声切切。', '良人一去不复还，今夕坐愁鬓如雪。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "梦中歌 二",
+          "content": "['劝君酒，君莫辞。', '落花徒绕枝，流水无返期。']",
+          "activities": "喝酒",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "张氏女",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "梦王尚书口授吟",
+          "content": "['鬟梳闹扫学宫妆，独立闲庭纳夜凉。', '手把玉簪敲砌竹，清歌一曲月如霜。']",
+          "activities": "打扮妆发、唱歌",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "闽后陈氏",
+      "identity": "其他",
+      "original_identity": "这句诗出自唐朝闽后陈氏的《乐游曲》。诗中描绘了一幅生动的画面：龙舟在湖上摇曳前行，而湖上的采莲女使得荷花更加鲜红。水波轻柔，荷叶覆盖，使人与自然融为一体，却也让彼此之间的道路变得不再通畅。这不仅是对景物的描绘，更隐含了人际关系的微妙和隔阂感‌",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "乐游曲 一",
+          "content": "['龙舟摇曳东复东，采莲湖上红更红。', '波淡淡，水溶溶，奴隔荷花路不通。']",
+          "activities": "看龙舟",
+          "location": null,
+          "time": null,
+          "emotion": "中性"
+        }
+      ]
+    },
+    {
+      "name": "王丽真女郎",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "字字双",
+          "content": "['床头锦衾斑复斑，架上朱衣殷复殷。', '空庭明月闲复闲，夜长路远山复山。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "崔琼英",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "崔十娘",
+      "identity": "其他",
+      "original_identity": "“暂时游玩在双树下，远远看到两枝花香。”\n“向阳时影子交错，迎风时芬芳四散。”\n“嬉戏的蝴蝶扶持着红花，游荡的蜜蜂飞入紫色的花房。”\n“如今人人都来采摘，各自装在各自的箱子里。”",
+      "poem_count": 6,
+      "sample_poems": [
+        {
+          "title": "游仙窟诗 咏双树荅文成",
+          "content": "['暂游双树下，遥见两枝芳。', '向日俱翻影，迎风竝散香。', '戏蝶扶丹萼，游蜂入紫房。', '人今总摘取，各著一边箱。']",
+          "activities": "花园游玩",
+          "location": null,
+          "time": null,
+          "emotion": "中性"
+        },
+        {
+          "title": "游仙窟诗 咏花",
+          "content": "['映水俱知笑，成蹊竟不言。', '即今无自在，高下任渠攀。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "游仙窟诗 游后园",
+          "content": "['梅蹊命道士，桃涧伫神仙。', '旧鱼成大劒，新龟类小钱。', '水湄唯见柳，池曲且生莲。', '欲知赏心处，桃花落眼前。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "崔五嫂",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "游仙窟诗 游后园",
+          "content": "['极目游芳苑，相将对花林。', '露净山光出，池鲜树影沈。', '落花时泛酒，歌鸟或鸣琴。', '是时日将夕，携樽就树阴。']",
+          "activities": "喝酒、唱歌",
+          "location": "花林",
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "游仙窟诗 别文成",
+          "content": "['此时经一去，谁知隔几年。', '双凫伤别绪，独鹤惨离弦。', '怨起移酲后，愁生落醉前。', '若使人心密，莫惜马蹄穿。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "宋家娘子",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "秦筝怨（伯三八八五）",
+          "content": "['玳瑁秦筝里，声声怨别离。', '只缘多苦调，欲奏泪还垂。', '妾意如弦直，君心学柱移。', '𫏐时停不弄，音调早参差。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "春寻花柳得情（三八一二）",
+          "content": "['美人林里趁鵶儿，银甲花间不觉遗。', '连忙借问娇鹦鹉，鸟鸟衔将与阿谁？。']",
+          "activities": "追逐鸟儿",
+          "location": "花林",
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "来香儿",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "南阳",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "吴二娘",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "杭州",
+          "content": "中唐",
+          "activities": "《吟窗杂录》卷五〇收《长相思》，杨慎《升庵诗话》卷四：“吴二娘，杭州名妓也”",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "长相思",
+          "content": "['深画眉，浅画眉，蝉鬓鬅鬙云满衣，阳台行雨回。', '巫山高，巫山低，暮雨潇潇郎不归，空房独守时。', '（见宋黄升《唐宋诸贤绝妙词选》卷一，原署为白居易作）（〖1〗明刻本《吟窗杂录》卷五十录吴二娘《长相思令》云：「深黛眉，浅黛眉，十指茏葱云染衣，巫山行雨行〖疑为回之误〗。', '巫山高，巫山低，暮暮朝朝良不归，空房独守谁？', '」〖2〗明杨慎《升庵诗话》卷四云：「吴二娘，杭州名妓也。', '有《长相思》一词云：『深花枝，浅花枝，深浅花枝相间时，花枝难似伊。', '巫山高，巫山低，暮雨潇潇郎不归，空房独守时。', '』白乐天诗：『吴娘暮雨潇潇曲，自别江南久不闻。', '』又：『夜舞吴娘袖，春歌蛮子词。', '』自注：『吴二娘歌词有暮雨潇潇郎不归之句。', '』《绝妙词选》以此为白乐天词，误矣。', '吴二娘亦杜公之黄四娘也，聊表出之。', '」今按：杨慎引白氏二诗，前诗为《寄殷协律》，后诗为《听弹湘妃怨》。', '其订黄氏之失，甚是。', '《吟窗杂录》为北宋末蔡传所作书〖详拙文《殷璠〈丹阳集〉辑考》〗，已径题吴二娘作，可证。', '惟三本文字差异较大，黄升所录，似与白氏所闻者最为接近，故录为正文，而以余二本附于后。', '《全唐诗》卷八九○据黄升所录收归白居易，今为移正之。', '）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "姜窈窕",
+      "identity": "其他",
+      "original_identity": "不明",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": "《琅嬛记》卷上引《本传》记其大历中与张叔良相悦",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "诗",
+          "content": "['数行心因鲤鱼传，轻放金钩绣帐悬。', '不是娇慵贪昼卧，众中无处看花牋。', '（同前卷下引《本传》）（按：《瑯嬛记》云「张叔良字房卿，大历中与姜窈窕相悦」。', '录二人诗三首。', '今检《唐诗纪事》卷三一载，张叔良为广德二年登进士第，与此云大历相合。', '姜窈窕诗二首，其中《春思》「门前梅柳烂春辉」一首，《全唐诗》卷八○二作张窈窕诗。', '张、姜故事，或出后人附会，而诗作则似别有依据，故仍录存之。', '）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "金真德",
+      "identity": "其他",
+      "original_identity": "新罗王",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "新罗",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "太平诗",
+          "content": "['大唐开鸿业，巍巍皇猷昌。', '止戈戎衣定，修文继百王。', '统天崇雨施，理物体含章。', '深仁谐日月，抚运迈时康。', '幡旗既赫赫，钲鼓何锽锽。', '外夷违命者，翦覆被大殃。', '和风凝宇宙，遐迩竞呈祥。', '四时调玉烛，七曜巡万方。', '维岳降宰辅，维帝用忠良。', '三五咸一德，昭我皇家唐。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "崔紫云",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": "尚书李愿妓，与杜牧有交集",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "临行献李尚书",
+          "content": "['从来学制斐然诗，不料霜台御史知。', '忽见便教随命去，恋恩肠断出门时。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "常浩",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "赠卢夫人",
+          "content": "['佳人惜颜色，恐逐芳菲歇。', '日暮出画堂，下堦拜新月。', '拜月如有词，傍人那得知。', '归来投玉枕，始觉泪痕垂。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄远",
+          "content": "['年年二月时，十年期别期。', '春风不知信，轩盖独迟迟。', '今日无端卷珠箔，始见庭花复零落。', '人心一往不复归，岁月来时未尝错。', '可怜荧荧玉镜台，尘飞幂幂几时开。', '却念容华非昔好，画眉犹自待君来。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "颜令宾",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "临终召客",
+          "content": "['气余三五喘，花剩两三枝。', '话别一尊酒，相邀无后期。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "韩襄客",
+      "identity": "其他",
+      "original_identity": "娼妓",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "汉南",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "闺怨诗",
+          "content": "['连理枝前同设誓，丁香树下共论心。', '（同前）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ],
+  "宫妃": [
+    {
+      "name": "上官昭容",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 30,
+      "sample_poems": [
+        {
+          "title": "长安",
+          "content": "初唐",
+          "activities": "聪慧善文，得到武则天重用，担任内舍人。中宗即位，为婕妤，专掌制命，进拜昭容，故世称上官昭容。",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "奉和圣制立春日侍宴内殿出翦彩花应制",
+          "content": "['密叶因裁吐，新花逐翦舒。', '攀条虽不谬，摘橤讵知虚。', '春至由来发，秋还未肯疎。']",
+          "activities": "宴会；欣赏自然景观：花",
+          "location": "皇宫内殿",
+          "time": "立春",
+          "emotion": "积极"
+        },
+        {
+          "title": "九月九日上幸慈恩寺登浮图群臣上菊花寿酒",
+          "content": "['帝里重阳节，香园万乘来。', '却邪萸入佩，献寿菊传杯。', '墖类承天涌，门疑待佛开。', '睿词悬日月，长得仰昭回。']",
+          "activities": "节庆活动",
+          "location": "京城",
+          "time": "重阳节",
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "蜀太妃徐氏",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 9,
+      "sample_poems": [
+        {
+          "title": "成都",
+          "content": "五代",
+          "activities": "徐耕之女",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "丈人观",
+          "content": "['获陪翠辇喜殊常，同涉仙坛岂厌长。', '不羡乘鸾入烟雾，此中便是五云乡。']",
+          "activities": "游历",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "玄都观",
+          "content": "['登寻丹壑到玄都，接日红霞照座隅。', '即向周回岩下看，似看曾进画图无。']",
+          "activities": "观看历史遗迹",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "花蘂夫人",
+      "identity": "宫妃",
+      "original_identity": "\"初离蜀道心将碎，离恨绵绵\" 这两句描写的是离别之痛，蜀道寥寥，心如刀割。\"春日如年\" 则是时间流逝迅速，如同春日般不断延伸的感觉。\"马上时时闻杜鹃\" 表示诗人在骑马行进中，不断听到杜鹃的叫声，这也是对远方思念之情的一种渲染。\n而接下来的 \"三千宫女皆花貌，妾最婵娟\" 展现了诗人的自信，她认为即使宫中有成千上万的美女，但她自己仍旧是最为婀娜多姿的。最后两句 \"此去朝天，只恐君王宠爱偏\" 表达的是对丈夫或君主的担忧，害怕君王的宠爱可能会有所偏颇。\n整首诗通过深情的表达和对美貌的自信，展现了一个女子在面对离别时复杂的情感世界。",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "采桑子（途中作）",
+          "content": "['初离蜀道心将碎，离恨绵绵。', '春日如年，马上时时闻杜鹃。', '三千宫女皆花貌，妾最婵娟。', '此去朝天，只恐君王宠爱偏。', '（见《能改斋漫录》卷十六。', '）（按：《全唐诗》卷八九九仅收此词之上半阙。', '一说后半片为后人补作。', '）。']",
+          "activities": "骑马",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "宫词",
+          "content": "['雨洒瑶阶花尽开，君王应是看花来。', '静凭雕栏浑忘倦，忽听笙簧殿外回。', '（见毛氏汲古阁本《花蘂夫人宫词》。', '转录自《开明书店廿周年纪念文集》所刊浦江清《花蘂夫人宫词考证》。', '浦云此诗他本俱无，未详来历。', '）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "蜀太后徐氏",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 9,
+      "sample_poems": [
+        {
+          "title": "成都",
+          "content": "五代",
+          "activities": "徐耕之女",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "丈人观",
+          "content": "['早与元妃慕至化，同跻灵岳访真仙。', '当时信有壶中景，今日亲来洞里天。', '仪仗影空寥廓外，金丝声揭翠微巅。', '惟慙未致华胥理，徒卜升平万万年。']",
+          "activities": "登山",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        },
+        {
+          "title": "玄都观",
+          "content": "['千寻绿嶂夹流溪，登眺因知海岳低。', '瀑布迸舂青石碎，轮茵横翦翠峰齐。', '步黏苔藓龙桥滑，日闭烟罗鸟径迷。', '莫道穹天无路到，此山便是碧云梯。']",
+          "activities": "登山 欣赏自然风景：山 瀑布 小溪 鸟",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "长孙氏",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "河南洛阳",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "武则天",
+      "identity": "宫妃",
+      "original_identity": "宫妃、皇帝",
+      "poem_count": 15,
+      "sample_poems": [
+        {
+          "title": "并州文水",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "郊庙歌辞 武后明堂乐章 外办将出",
+          "content": "['总章陈昔典，衢室礼惟神。', '宏规则天地，神用叶陶钧。', '负扆三春旦，充庭万宇宾。', '顾己诚虚薄，空慙亿兆人。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "郊庙歌辞 武后明堂乐章 皇帝行",
+          "content": "['仰膺历数，俯顺讴歌。', '远安迩肃，俗阜时和。', '化光玉镜，讼息金科。', '方兴典礼，永戢干戈。']",
+          "activities": "祭祀",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "萧妃",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": "武陵郡王伯良妃",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "夜梦",
+          "content": "['昨日梦君归，贱妾下鸣机。', '极知意气薄，不著去时衣。', '故言如梦里，赖得雁书飞。']",
+          "activities": "纺织",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "徐贤妃",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 6,
+      "sample_poems": [
+        {
+          "title": "湖州长城",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "拟小山篇",
+          "content": "['仰幽岩而流盼，抚桂枝以凝想。', '将千龄兮此遇，荃何为兮独往。']",
+          "activities": "欣赏自然风景：山岩 桂树",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "长门怨",
+          "content": "['旧爱柏梁台，新宠昭阳殿。', '守分辞芳辇，含情泣团扇。', '一朝歌舞荣，夙昔诗书贱。', '颓恩诚已矣，覆水难重荐。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "杨玉环",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "蒲州永乐",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "杨宜芬",
+      "identity": "宫妃",
+      "original_identity": "公主",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": null,
+          "content": "盛唐",
+          "activities": "唐宗室出女。天宝四年三月封为宜芳公主出嫁奚首领李延宠。后因安禄山为了边功而多次杀掠奚与契丹，导致其杀公主造反。",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "宜芬公主",
+      "identity": "宫妃",
+      "original_identity": "“出嫁辞乡国，由来此别难。”开篇即表达了离别之痛，\"由来\"意味着自古以来，女子出嫁总是难以割舍对故土的情感。\"此别难\"则强调了这次离别的艰辛与不易。\n“圣恩愁远道，行路泣相看。”这里的\"圣恩\"指的是皇家的恩泽，公主因将远离京城而感到忧虑。这一句表达了对皇室恩情的思念以及即将踏上旅途时与亲人告别的情景。\n“沙塞容颜尽，边隅粉黛残。”\"沙塞\"形容边塞荒凉，\"容颜尽\"则是指女子出嫁后，再难以保持昔日的容光。\"边隅粉黛残\"更增添了一种淡漠与凄清，暗示着公主对未来生活的担忧。\n“妾心何所断，他日望长安。”结尾两句流露出公主内心深处对故土的眷恋之情。\"妾心何所断\"表达了她对家国的牵挂和割舍不下的复杂感情，而\"他日望长安\"则透露出了日后仍将怀念这座城市的心愿。\n总体来看，这首诗通过宜芬公主的角度，展现了女性在传统社会中出嫁所承受的情感压力，以及她们对故土深厚的感情。语言优美，情感真挚，是一首表达离别哀愁的佳作。",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "虚池驿题屏风",
+          "content": "['出嫁辞乡国，由来此别难。', '圣恩愁远道，行路泣相看。', '沙塞容颜尽，边隅粉黛残。', '妾心何所断，他日望长安。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "宝历宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "句",
+          "content": "['宝帐香重重，一双红芙蓉。']",
+          "activities": "赏花（芙蓉花）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "德宗宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题花叶诗",
+          "content": "['一入深宫里，无由得见春。', '题诗花叶上，寄与接流人。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "开元宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "袍中诗",
+          "content": "['沙场征戍客，寒苦若为眠。', '战袍经手作，知落阿谁边。', '蓄意多添线，含情更著绵。', '今生已过也，结取后生缘。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "李玉箫",
+      "identity": "宫妃",
+      "original_identity": "宫女，乐伎",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "五代",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "前蜀后主王衍的宫女，乐伎"
+        },
+        {
+          "title": "宫词",
+          "content": "['鸳鸯瓦上瞥然声，昼寝宫娥梦里惊。', '元是我王金弹子，海棠花下打流莺。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "天宝宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题洛苑梧叶上",
+          "content": "['旧宠悲秋扇，新恩寄早春。', '聊题一片叶，将寄接流人。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "又题洛苑梧叶上",
+          "content": "['一叶题诗出禁城，谁人酬和独含情。', '自嗟不及波中叶，荡漾乘春取次行。']",
+          "activities": "赏叶",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "武后宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "离别难",
+          "content": "['此别难重陈，花飞复恋人。', '来时梅覆雪，去日柳含春。', '物候催行客，归途淑气新。', '剡川今已远，魂梦暗相亲。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "僖宗宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "金锁诗",
+          "content": "['玉烛制袍夜，金刀呵手裁。', '锁寄千里客，锁心终不开。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "宣宗宫人",
+      "identity": "宫妃",
+      "original_identity": "宫人",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题红叶",
+          "content": "['流水何太急，深宫尽日闲。', '殷勤谢红叶，好去到人间。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "陈宫妃嫔",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与颜濬冥会诗 一",
+          "content": "['秋草荒台响夜蛩，白杨凋尽减悲风。', '彩笺曾擘欺江总，绮阁尘消玉树空。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "与颜濬冥会诗 二",
+          "content": "['宝阁排云称望仙，五云高艳拥朝天。', '清溪犹有当时月，应照琼花绽绮筵。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "宫嫔",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "冥会诗 一",
+          "content": "['争不逢人话此身，此身长夜不知春。', '自从国破家亡后，陇上惟添芳草新。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "冥会诗 二",
+          "content": "['休说人间恨恋多，况逢佳客此相过。', '堂中纵有千般乐，争及阳春一曲歌。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "孟蜀妃张太华",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": "后蜀后主孟昶的妃子",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "葬后见形诗",
+          "content": "['独卧经秋堕鬓蝉，白杨风起不成眠。', '寻思往日椒房宠，泪湿衣襟损翠钿。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "谢李若冲",
+          "content": "['符吏匆匆叩夜扃，便随金简出幽冥。', '蒙师荐拔恩非浅，领得生神九过经。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "陈金凤",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "福唐",
+          "content": "五代",
+          "activities": "闽后陈氏",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "李舜弦",
+      "identity": "宫妃",
+      "original_identity": "宫妃",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "梓州",
+          "content": "五代",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "随驾游青城",
+          "content": "['因随八马上仙山，顿隔尘埃物象闲。', '只恐西追王母宴，却忧难得到人间。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "蜀宫应制",
+          "content": "['浓树禁花开后庭，饮筵中散酒微醒。', '蒙蒙雨草瑶阶湿，钟晓愁吟独倚屏。']",
+          "activities": "吟诗",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    }
+  ],
+  "未知": [
+    {
+      "name": "花蕊夫人徐氏",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 155,
+      "sample_poems": [
+        {
+          "title": "宫词 一",
+          "content": "['五云楼阁凤城间，花木长新日月闲。', '三十六宫连内苑，太平天子住昆山。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "宫词 二",
+          "content": "['会真广殿约宫墙，楼阁相扶倚太阳。', '净甃玉阶横水岸，御炉香气扑龙床。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "宫词 三",
+          "content": "['龙池九曲远相通，杨柳丝牵两岸风。', '长似江南好风景，画船来去碧波中。']",
+          "activities": "欣赏自然景观：龙池、杨柳",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "赵氏",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 8,
+      "sample_poems": [
+        {
+          "title": "古兴 一",
+          "content": "['郁蒸夏将半，暑气扇飞阁。', '骤雨满空来，当轩卷罗幕。', '度云开夕霁，宇宙何清廓。', '明月流素光，轻风换炎铄。', '孤鸾伤对影，宝瑟悲别鹤。', '君子去不还，遥心欲何托。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "古兴 二",
+          "content": "['金菊延清霜，玉壶多美酒。', '良人犹不归，芳菲岂常有。', '不惜芳菲歇，但伤别离久。', '含情罢斟酌，凝怨对窗牖。']",
+          "activities": "饮酒；思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "古兴 三",
+          "content": "['霁雪舒长野，寒云半幽谷。', '严风振枯条，猨啼抱冰木。', '所嗟游宦子，少小荷天禄。', '前程未云至，凄怆对车仆。', '岁寒成咏歌，日暮栖林朴。', '不惮行险道，空悲年运促。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "[严]续姬",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "赠别",
+          "content": "['风柳摇摇无定枝，阳台云雨梦中归。', '他年蓬岛音尘绝，留取尊前旧舞衣。']",
+          "activities": "欣赏自然景物（柳树）；思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "刘氏妇",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "明月堂 一",
+          "content": "['蝉鬓惊秋华发新，可怜红隙尽埃尘。', '西山一梦何年觉，明月堂前不见人。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "明月堂 二",
+          "content": "['玉钩风急响丁东，回首西山似梦中。', '明月堂前人不到，庭梧一夜老秋风。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "刘元载妻",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "早梅",
+          "content": "['南枝向暖北枝寒，一种春风有两般。', '凭仗高楼莫吹笛，大家留取倚阑干。']",
+          "activities": "欣赏自然景物（梅花）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "若耶溪女子",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "题三乡诗",
+          "content": "['昔逐良人西入关，良人身殁妾空还。', '谢娘卫女不相待，为雨为云归此山。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "香儿",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "游仙窟诗 送张郎",
+          "content": "['丈夫存行迹，慇懃为数来。', '莫作浮萍草，逐浪不知回。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "凌行婆",
+      "identity": "未知",
+      "original_identity": null,
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": "《景德传灯录》卷八答赵州和尚颂，《全唐诗补编》记：“凌行婆，从谂同时。”",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "答赵州和尚颂",
+          "content": "['哭声师已晓，已晓复谁知。', '当时魔（《五灯会元》作「摩」）竭国，几丧目前机。', '（同前）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ],
+  "平民": [
+    {
+      "name": "程长文",
+      "identity": "平民",
+      "original_identity": "平民女子",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "鄱阳",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "晁采",
+      "identity": "平民",
+      "original_identity": "平民女子",
+      "poem_count": 24,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄文茂",
+          "content": "['花笺制叶寄郎边，的的寻鱼为妾传。', '幷蒂已看灵鹊报，倩郎早觅买花船。']",
+          "activities": "给情郎寄信",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "秋日再寄",
+          "content": "['珍簟生凉夜漏余，梦中恍惚觉来初。', '魂离不得空成病，面见无由浪寄书。', '窗外江村钟响绝，枕边梧叶雨声疎。', '此时最是思君处，肠断寒猨定不如。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "郭绍兰",
+      "identity": "平民",
+      "original_identity": "平民女子",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "长安",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "巨商任宗妻"
+        },
+        {
+          "title": "寄夫",
+          "content": "['我壻去重湖，临窗泣血书。', '殷勤凭燕翼，寄与薄情夫。']",
+          "activities": "思念丈夫",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "李弄玉",
+      "identity": "平民",
+      "original_identity": "平民女子",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "越州",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ],
+  "道士/女冠": [
+    {
+      "name": "李冶",
+      "identity": "道士/女冠",
+      "original_identity": "女冠",
+      "poem_count": 13,
+      "sample_poems": [
+        {
+          "title": "吴兴",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "琴曲歌辞 三峡流泉歌",
+          "content": "['妾家本住巫山云，巫山流水常自闻。', '玉琴弹出转寥敻，直似当时梦中听。', '三峡流泉几千里，一时流入深闺里。', '巨石奔崖指下生，飞波走浪弦中起。', '初疑喷涌含雷风，又似呜咽流不通。', '回湍曲濑势将尽，时复滴沥平沙中。', '忆昔阮公为此曲，能使仲容听不足。', '一弹既罢复一弹，愿似流泉镇相续。']",
+          "activities": "弹琴；欣赏自然景物（巫山、流水）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "寄朱放",
+          "content": "['望水试登山，山高湖又阔。', '相思无晓夕，相望经年月。', '郁郁山木荣，绵绵野花发。', '别后无限情，相逢一时说。']",
+          "activities": "登山；欣赏自然景物(树木，野花)；思念朋友",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "薛涛",
+      "identity": "道士/女冠",
+      "original_identity": "女冠",
+      "poem_count": 91,
+      "sample_poems": [
+        {
+          "title": "长安",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "酬人雨后玩竹",
+          "content": "['南天春雨时，那鉴雪霜姿。', '众类亦云茂，虚心能自持。', '多留晋贤醉，早伴舜妃悲。', '晚岁君能赏，苍苍劲节奇。']",
+          "activities": "欣赏自然景物（竹子）；饮酒",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "春望词四首 一",
+          "content": "['花开不同赏，花落不同悲。', '欲问相思处，花开花落时。']",
+          "activities": "赏花",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "鱼玄机",
+      "identity": "道士/女冠",
+      "original_identity": "女冠",
+      "poem_count": 42,
+      "sample_poems": [
+        {
+          "title": "长安",
+          "content": "晚唐",
+          "activities": "李亿妾，后为女冠",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄国香",
+          "content": "['旦夕醉吟身，相思又此春。', '雨中寄书使，窗下断肠人。', '山卷珠帘看，愁随芳草新。', '别来清宴上，几度落梁尘。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄题炼师",
+          "content": "['霞彩翦为衣，添香出绣帏。', '芙蓉花叶□，山水帔□稀。', '驻履闻莺语，开笼放鹤飞。', '高堂春睡觉，暮雨正霏霏。']",
+          "activities": "午睡",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "元淳",
+      "identity": "道士/女冠",
+      "original_identity": "女冠",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "洛中",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "寄洛中诸姊",
+          "content": "['旧国经年别，关河万里思。', '题诗凭鴈翼，望月想蛾眉。', '白发愁偏觉，归心梦独知。', '谁堪离乱处，掩泪向南枝。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "秦中春望",
+          "content": "['凤楼春望好，宫阙一重重。', '上苑雨中树，终南霁后峰。', '落花行处徧，佳气晚来浓。', '喜见休明代，霓裳蹑道踪。']",
+          "activities": "登高赏景",
+          "location": null,
+          "time": "春日",
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "海印",
+      "identity": "道士/女冠",
+      "original_identity": "女尼",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "蜀中",
+          "content": "晚唐",
+          "activities": "慈光寺尼",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "舟夜一章",
+          "content": "['水色连天色，风声益浪声。', '旅人归思苦，渔叟梦魂惊。', '举棹云先到，移舟月逐行。', '旋吟诗句罢，犹见远山横。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "诗 一",
+          "content": "['境风吹性海，波起成连山。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "慈和",
+      "identity": "道士/女冠",
+      "original_identity": "女冠女尼",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "盛唐",
+          "activities": "开元间遵善寺尼。《宋高僧传》卷十四《唐会稽开元寺昙一传》录其《昙一师歌》一首",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": null,
+          "content": "['。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "昙一师歌（题拟）",
+          "content": "['昙一师，解毗尼。', '大聪明，更无疑。', '（《宋高僧传》卷十四《唐会稽开元寺昙一传》）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ],
+  "歌妓": [
+    {
+      "name": "步非烟",
+      "identity": "歌妓",
+      "original_identity": "歌妓、姬妾",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "河南功曹武公业妾"
+        },
+        {
+          "title": "荅赵子",
+          "content": "['绿惨双蛾不自持，只缘幽恨在新诗。', '郎心应似琴心怨，脉脉春情更泥谁。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "又荅赵象独坐",
+          "content": "['无力严妆倚绣栊，暗题蝉锦思难穷。', '近来赢得伤春病，柳弱花敧怯晓风。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "红绡妓",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "勋臣家妓"
+        },
+        {
+          "title": "忆崔生",
+          "content": "['深洞莺啼恨阮郎，偷来花下解珠珰。', '碧云飘断音书绝，空倚玉箫愁凤皇。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "李节度姬",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "书红绡帕 一",
+          "content": "['囊裹真香谁见窃，鲛绡滴泪染成红。', '殷勤遗下轻绡意，好与情郎怀袖中。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "书红绡帕 二",
+          "content": "['金珠富贵吾家事，常渴佳期乃寂寥。', '偶用志诚求雅合，良媒未必胜红绡。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "柳氏",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "李生姬"
+        },
+        {
+          "title": "荅韩翃",
+          "content": "['杨柳枝，芳菲节，可恨年年赠离别。', '一叶随风忽报秋，纵使君来岂堪折。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "王霞卿",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "蓝田",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "韩嵩妾"
+        },
+        {
+          "title": "题唐安寺阁壁",
+          "content": "['春来引步暂寻游，愁见风光倚寺楼。', '正好开怀对烟月，双眉不觉自如钩。']",
+          "activities": "赏月",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "荅郑殷彝",
+          "content": "['君是烟霄折桂身，圣朝方切用儒珍。', '正堪西上文场战，空向途中泥妇人。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "薛瑶",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "东明国",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "郭振元妾"
+        },
+        {
+          "title": "谣",
+          "content": "['化云心兮思淑贞，洞寂灭兮不见人。', '瑶草芳兮思芬蒀，将奈何兮青春。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "赵氏3",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "南海",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "与房千里有交集"
+        }
+      ]
+    },
+    {
+      "name": "严（韩）续姬",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "五代",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "南唐仆射严续，与韩熙载有交集"
+        }
+      ]
+    },
+    {
+      "name": "鲍家四弦",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "鲍生妾"
+        },
+        {
+          "title": "送韦生酒",
+          "content": "['白露湿庭砌，皓月临前轩。', '此时去留恨，含思独无言。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "送鲍生酒",
+          "content": "['风飐荷珠难暂圆，多情信有短姻缘。', '西楼今夜三更月，还照离人泣断弦。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "曹文姬",
+      "identity": "歌妓",
+      "original_identity": "歌妓、书法家",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "长安",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "长安城中的名妓，善书法，为关中第一，号为“书仙”。"
+        },
+        {
+          "title": "句",
+          "content": "['凿开天外长生地，炼出人间不死丹。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "崔素娥",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "韦洵美妾"
+        },
+        {
+          "title": "别韦洵美诗",
+          "content": "['妾闭闲房君路岐，妾心君恨两依依。', '神魂倘遇巫娥伴，犹逐朝云暮雨归。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "韦检亡姬",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "和检诗",
+          "content": "['春雨蒙蒙不见天，家家门外柳和烟。', '如今肠断空垂泪，欢笑重追别有年。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "检悼亡姬诗",
+          "content": "['宝劒化龙归碧落，嫦娥随月下黄泉。', '一杯酒向青春晚，寂寞书窗恨独眠。']",
+          "activities": "喝酒",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "窦梁宾",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "夷门",
+          "content": "不明",
+          "activities": "卢东表侍儿",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "喜卢郎及第",
+          "content": "['晓妆初罢眼初𥆧，小玉惊人踏破帬。', '手把红笺书一纸，上头名字有郎君。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "雨中看牡丹",
+          "content": "['东风未放晓泥干，红药花开不奈寒。', '待得天晴花已老，不如携手雨中看。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "程洛宾",
+      "identity": "歌妓",
+      "original_identity": "姬妾",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "长水",
+          "content": "盛唐",
+          "activities": "京兆参军李华侍儿",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "归李江州后寄别王氏",
+          "content": "['鱼鴈回时写报音，难凭剉蘖数年心。', '虽然情断沙咤后，争奈平生怨恨深。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ],
+  "士大夫妻女": [
+    {
+      "name": "崔氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "校书郎卢某妻"
+        },
+        {
+          "title": "述怀",
+          "content": "['不怨卢郎年纪大，不怨卢郎官职卑。', '自恨妾身生较晚，不及卢郎年少时。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "侯氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "边将张揆妻"
+        },
+        {
+          "title": "绣龟形诗",
+          "content": "['暌离已是十秋强，对镜那堪重理妆。', '闻鴈几回修尺素，见霜先为制衣裳。', '开箱叠练先垂泪，拂杵调砧更断肠。', '绣作龟形献天子，愿教征客早还乡。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "蒋氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "吴越时湖州司法参军陆濛妻"
+        },
+        {
+          "title": "荅诸姊妹戒饮",
+          "content": "['平生偏好酒，劳尔劝吾餐。', '但得杯中满，时光度不难。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "林氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "济南",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "薛元暧妻"
+        },
+        {
+          "title": "送男左贬诗",
+          "content": "['他日初投杼，勤王在饮冰。', '有辞期不罚，积毁竟相仍。', '谪宦今何在，衔冤犹未胜。', '天涯分越徼，驿骑速毘陵。', '肠断腹非苦，书传写岂能。', '泪添江水远，心剧海云蒸。', '明月珠难识，甘泉赋可称。', '但将忠报主，何惧点青蝇。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "乔氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "冯翊",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "左司郎中知之妹"
+        },
+        {
+          "title": "咏破帘",
+          "content": "['已漏风声罢，绳持也不禁。', '一从经落后，无复有贞心。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "任氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "蜀尚书侯继图妻"
+        },
+        {
+          "title": "书桐叶",
+          "content": "['拭翠敛蛾眉，郁郁心中事。', '搦管下庭除，书成相思字。', '此字不书石，此字不书纸。', '书在桐叶上，愿逐秋风起。', '天下有心人，尽解相思死。', '天下负心人，不识相思字。', '有心与负心，不知落何地。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "王氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "太原",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "永福潘令妻"
+        },
+        {
+          "title": "书石壁",
+          "content": "['何事潘郎恋别筵，欢情未断妾心悬。', '汰王滩下相思处，猨叫山山月满船。']",
+          "activities": "参加宴会",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "王韫秀",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "太原祁县",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "元载妻，王嗣忠女"
+        },
+        {
+          "title": "同夫游秦",
+          "content": "['路扫饥寒迹，天哀志气人。', '休零离别泪，携手入西秦。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "夫入相寄姨妹",
+          "content": "['相国已随麟阁贵，家风第一右丞诗。', '笄年解笑鸣机妇，耻见苏秦富贵时。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "魏氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "巨鹿",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "魏求己妹"
+        },
+        {
+          "title": "赠外",
+          "content": "['浮萍依绿水，弱茑寄青松。', '与君结大义，移天得所从。', '翰林无双鸟，劒水不分龙。', '谐和类琴瑟，坚固同胶漆。', '义重恩欲深，夷险贵如一。', '本自身不令，积多婴痛疾。', '朝夕倦床枕，形体耻巾栉。', '游子倦风尘，从官初解巾。', '束装赴南郢，脂驾出西秦。', '比翼终难遂，衔雌苦未因。', '徒悲枫岸远，空对柳园春。', '男儿不重旧，丈夫多好新。', '新人喜新聘，朝朝临粉镜。', '两鸳固无比，双蛾谁与竞。', '讵怜愁思人，衔啼嗟薄命。', '蕣华不足恃，松枝有余劲。', '所愿好九思，勿令亏百行。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "薛媛",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "濠梁",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "南楚材妻"
+        },
+        {
+          "title": "写真寄夫",
+          "content": "['欲下丹青笔，先拈宝镜寒。', '已经颜索寞，渐觉鬓凋残。', '泪眼描将易，愁肠写出难。', '恐君浑忘却，时展画图看。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "薛馧",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "河中宝鼎",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "薛彦辅孙女"
+        },
+        {
+          "title": "赠郑女郎",
+          "content": "['艳阳灼灼河洛神，珠帘绣户青楼春。', '能弹箜篌弄纤指，愁杀门前少年子。', '笑开一面红粉妆，东园几树桃花死。', '朝理曲，暮理曲，独坐窗前一片玉。', '行也娇，坐也娇，见之令人魂魄销。', '堂前锦褥红地𬬻，绿沈香榼倾屠苏。', '解佩时时歇歌管，芙蓉帐里兰麝满。', '晚起罗衣香不断，灭烛每嫌秋夜短。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "古意",
+          "content": "['昨夜巫山中，失却阳台女。', '朝来香阁里，独伴楚王语。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "杨容华",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "华阴",
+          "content": "初唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "杨炯侄女"
+        },
+        {
+          "title": "新妆诗",
+          "content": "['啼鸟惊眠罢，房栊乘晓开。', '凤钗金作缕，鸾镜玉为台。', '妆似临池出，人疑向月来。', '自怜终不见，欲去复裴回。']",
+          "activities": "没有休闲活动",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "张立本女",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "草场官张立本女"
+        },
+        {
+          "title": "诗",
+          "content": "['危冠广袖楚宫妆，独步闲庭逐夜凉。', '自把玉簪敲砌竹，清歌一曲月如霜。']",
+          "activities": "宫中散步",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "张氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "袁州",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "彭伉妻"
+        },
+        {
+          "title": "寄夫 一",
+          "content": "['久无音信到罗帏，路远迢迢遣问谁。', '闻君折得东堂桂，折罢那能不暂归。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "寄夫 二",
+          "content": "['驿使今朝过五湖，殷勤为我报狂夫。', '从来夸有龙泉劒，试割相思得断无。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "张文姬",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "不明",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "鲍参军妻"
+        },
+        {
+          "title": "溪口云",
+          "content": "['溶溶溪口云，才向溪中吐。', '不复归溪中，还作溪中雨。']",
+          "activities": "欣赏自然景物（溪水、云）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        },
+        {
+          "title": "池上竹",
+          "content": "['此君临此池，枝低水相近。', '碧色绿波中，日日流不尽。']",
+          "activities": "欣赏自然景物（河流）",
+          "location": null,
+          "time": null,
+          "emotion": "中立"
+        }
+      ]
+    },
+    {
+      "name": "赵氏1",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "冯翊",
+          "content": "盛唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "寇坦母"
+        }
+      ]
+    },
+    {
+      "name": "赵氏2",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 1,
+      "sample_poems": [
+        {
+          "title": "洹水",
+          "content": "中唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "杜羔妻"
+        }
+      ]
+    },
+    {
+      "name": "周仲美",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "成都",
+          "content": "晚唐",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": "适李氏"
+        },
+        {
+          "title": "书壁",
+          "content": "['爱妾不爱子，为问此何理。', '弃官更弃妻，人情宁可已。', '永诀泗之滨，遗言空在耳。', '三载无朝昏，孤帏泪如洗。', '妇人义从夫，一节誓生死。', '江乡感残春，肠断晚烟起。', '西望太华峰，不知几千里。']",
+          "activities": "思念情郎",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        }
+      ]
+    },
+    {
+      "name": "杨氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "弘农",
+          "content": "五代",
+          "activities": "《山右金石记》卷九《硖石山杨夫摩崖诗刻》，五代晋李嗣昭夫",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "硖石山",
+          "content": "['此山霭霭通云烟，峭壁嵯峨势分绵。', '丹水流衍曲如带，风皱罗纹听管弦。', '莺啼花开入禅意，掷笔台前梵呗宣。', '遥想当年无遮会，纷纷散落雨花天。', '（见《山右金石记》。', '）（〖1〗《山右金石记》卷九《硖石山杨夫人摩崖诗刻》条引《鳯台县志》：石壁刻『唐天佑丙子岁六月十四日离府，至中旬巡祀到此，登陟硖石山，偶上先师掷笔台，眺观景象，为诗上碣。', '弘农郡君夫人述。', '』按天佑丙子，晋称天佑十一年〖望按：丙子，当是晋天祐十三年，公元九一六年〗。', '是年，李嗣昭立钟开元寺以七月十三日，弘农郡君夫人游硖石山则六月十四日。', '考唐制有郡君夫人、公侯伯子夫人，制同一二三四品，似属嗣昭夫人杨氏。', '但嗣昭封陇西郡公，未封弘农，或因弘农华阴以杨氏族望为称也。', '又考杨氏善蓄财，嗣昭被梁兵围夹城弥年，杨氏多助其军用。', '子继韬叛后入京，杨赍银数十万验赂释其罪。', '后与子继忠家晋阳，余赀犹钜万。', '晋高祖起义，贷其殖以赂契丹，后以继忠为刺史。', '杨氏平生积产，嗣昭三世皆赖。', '今复见其石刻笔迹，直奇妇人也。', '）。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "裴淑",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "河东",
+          "content": "中唐",
+          "activities": "元稹继室",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "荅微之",
+          "content": "['侯门初拥节，御苑柳丝新。', '不是悲殊命，唯愁别近亲。', '黄莺迁古木，朱履从清尘。', '想到千山外，沧江正暮春。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "杨德麟",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 2,
+      "sample_poems": [
+        {
+          "title": "河南灵宝",
+          "content": "晚唐",
+          "activities": "司农少卿敬之之小女",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "题奉慈寺",
+          "content": "['日月金轮动，旃檀碧树秋。', '塔分鸿鴈翅，钟挂凤凰楼。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "孙氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 4,
+      "sample_poems": [
+        {
+          "title": "乐县（一作安）",
+          "content": "不明",
+          "activities": "孟昌期妻",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "闻琴",
+          "content": "['玉指朱弦轧复清，湘妃愁怨最难听。', '初疑飒飒凉风劲，又似萧萧暮雨零。', '近比流泉来碧嶂，远如玄鹤下青冥。', '夜深弹罢堪惆怅，露湿丛兰月满庭。']",
+          "activities": "听琴",
+          "location": null,
+          "time": null,
+          "emotion": "消极"
+        },
+        {
+          "title": "白蜡烛诗",
+          "content": "['景胜银釭香比兰，一条白玉偪人寒。', '他时紫禁春风夜，醉草天书仔细看。']",
+          "activities": "喝酒",
+          "location": null,
+          "time": null,
+          "emotion": "积极"
+        }
+      ]
+    },
+    {
+      "name": "黄崇嘏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 3,
+      "sample_poems": [
+        {
+          "title": "临邛",
+          "content": "晚唐",
+          "activities": "黄使君女",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "下狱贡诗",
+          "content": "['偶辞幽隐在临邛，行止坚贞比涧松。', '何事政清如水镜，绊他野鹤在深笼。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "辞蜀相妻女诗",
+          "content": "['一辞拾翠碧江湄，贫守蓬茅但赋诗。', '自服蓝衫居郡掾，永抛鸾镜画蛾眉。', '立身卓尔青松操，挺志铿然白璧姿。', '幕府若容为坦腹，愿天速变作男儿。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    },
+    {
+      "name": "韩氏",
+      "identity": "士大夫妻女",
+      "original_identity": "士大夫妻女",
+      "poem_count": 5,
+      "sample_poems": [
+        {
+          "title": "不明",
+          "content": "晚唐",
+          "activities": "僖宗时，与于祐有交集",
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": null,
+          "content": "['。']",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        },
+        {
+          "title": "于祐题红叶二句",
+          "content": "[流水何太急，深宫尽日闲。殷勤谢红叶，好去到人间。]",
+          "activities": null,
+          "location": null,
+          "time": null,
+          "emotion": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试 - 唐代女性休闲诗数据集</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background-color: #800000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .stats {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .poem-card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .poem-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .poem-author {
+            color: #666;
+            margin-bottom: 15px;
+        }
+        .poem-content {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        .poem-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            font-size: 0.9em;
+        }
+        .detail-item {
+            color: #555;
+        }
+        .detail-label {
+            font-weight: bold;
+            color: #333;
+        }
+        .identity-badge {
+            background-color: #dbeafe;
+            color: #1e40af;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            display: inline-block;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+        .filter-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .filter-select {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>唐代女性休闲诗数据集 - 测试页面</h1>
+    </div>
+
+    <div class="stats">
+        <h2>数据统计</h2>
+        <div id="stats-content">
+            <div class="loading">正在加载数据...</div>
+        </div>
+    </div>
+
+    <div class="filter-section">
+        <h3>按身份筛选</h3>
+        <select id="identity-filter" class="filter-select">
+            <option value="全部">全部</option>
+        </select>
+        <button onclick="filterPoems()">筛选</button>
+    </div>
+
+    <div id="poems-container">
+        <div class="loading">正在加载诗歌数据...</div>
+    </div>
+
+    <script>
+        let allPoems = [];
+        let filteredPoems = [];
+
+        // 加载数据
+        async function loadData() {
+            try {
+                const response = await fetch('/Users/anthony/Library/Mobile Documents/com~apple~CloudDocs/[02] Dev/[06] Travel Website/data/processed/female_poems.json');
+                const data = await response.json();
+                allPoems = data.filter(poem => poem.author && poem.author !== null);
+                filteredPoems = allPoems;
+                displayStats();
+                displayPoems();
+                setupFilters();
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                document.getElementById('poems-container').innerHTML = '<div class="loading">数据加载失败</div>';
+            }
+        }
+
+        // 显示统计信息
+        function displayStats() {
+            const authors = new Set(allPoems.map(p => p.author));
+            const identities = new Set(allPoems.map(p => p.内容).filter(i => i && i !== null));
+            
+            const statsHtml = `
+                <p><strong>总诗歌数量：</strong> ${allPoems.length}</p>
+                <p><strong>女性诗人数量：</strong> ${authors.size}</p>
+                <p><strong>身份类别：</strong> ${identities.size}</p>
+                <p><strong>主要身份：</strong> ${Array.from(identities).join('、')}</p>
+            `;
+            
+            document.getElementById('stats-content').innerHTML = statsHtml;
+        }
+
+        // 设置筛选器
+        function setupFilters() {
+            const identities = new Set(allPoems.map(p => p.内容).filter(i => i && i !== null));
+            const select = document.getElementById('identity-filter');
+            
+            identities.forEach(identity => {
+                const option = document.createElement('option');
+                option.value = identity;
+                option.textContent = identity;
+                select.appendChild(option);
+            });
+        }
+
+        // 筛选诗歌
+        function filterPoems() {
+            const selectedIdentity = document.getElementById('identity-filter').value;
+            
+            if (selectedIdentity === '全部') {
+                filteredPoems = allPoems;
+            } else {
+                filteredPoems = allPoems.filter(poem => poem.内容 === selectedIdentity);
+            }
+            
+            displayPoems();
+        }
+
+        // 显示诗歌
+        function displayPoems() {
+            const container = document.getElementById('poems-container');
+            
+            if (filteredPoems.length === 0) {
+                container.innerHTML = '<div class="loading">没有找到符合条件的诗歌</div>';
+                return;
+            }
+
+            const poemsHtml = filteredPoems.slice(0, 10).map(poem => {
+                const title = poem.title && poem.title !== null ? poem.title : '无题';
+                const content = formatParagraphs(poem.paragraphs);
+                const identity = poem.内容 && poem.内容 !== null ? poem.内容 : '';
+                
+                return `
+                    <div class="poem-card">
+                        <div class="poem-title">${title}</div>
+                        <div class="poem-author">作者：${poem.author}</div>
+                        ${identity ? `<div class="identity-badge">${identity}</div>` : ''}
+                        
+                        ${content ? `
+                            <div class="poem-content">
+                                <strong>诗歌内容：</strong><br>
+                                ${content}
+                            </div>
+                        ` : ''}
+                        
+                        <div class="poem-details">
+                            ${poem.活动 && poem.活动 !== null ? `<div class="detail-item"><span class="detail-label">活动：</span>${poem.活动}</div>` : ''}
+                            ${poem.地点 && poem.地点 !== null ? `<div class="detail-item"><span class="detail-label">地点：</span>${poem.地点}</div>` : ''}
+                            ${poem.时间 && poem.时间 !== null ? `<div class="detail-item"><span class="detail-label">时间：</span>${poem.时间}</div>` : ''}
+                            ${poem.伙伴 && poem.伙伴 !== null ? `<div class="detail-item"><span class="detail-label">伙伴：</span>${poem.伙伴}</div>` : ''}
+                            ${poem['音乐/乐器'] && poem['音乐/乐器'] !== null ? `<div class="detail-item"><span class="detail-label">音乐/乐器：</span>${poem['音乐/乐器']}</div>` : ''}
+                            ${poem.舞蹈 && poem.舞蹈 !== null ? `<div class="detail-item"><span class="detail-label">舞蹈：</span>${poem.舞蹈}</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            container.innerHTML = poemsHtml + 
+                (filteredPoems.length > 10 ? `<div class="loading">显示前10条，共${filteredPoems.length}条记录</div>` : '');
+        }
+
+        // 格式化诗歌内容
+        function formatParagraphs(paragraphs) {
+            if (!paragraphs || paragraphs === null) return '';
+            
+            try {
+                const parsed = JSON.parse(paragraphs);
+                if (Array.isArray(parsed)) {
+                    return parsed.join('，');
+                }
+                return paragraphs;
+            } catch {
+                return paragraphs;
+            }
+        }
+
+        // 页面加载时执行
+        loadData();
+    </script>
+</body>
+</html>
