@@ -5,6 +5,9 @@
    ▲ Next.js 14.0.3
    - Local:        http://localhost:3000
 
- ✓ Ready in 1889ms
- ✓ Compiled /not-found in 481ms (416 modules)
- ✓ Compiled / in 191ms (461 modules)
+ ✓ Ready in 1893ms
+ ○ Compiling /women-leisure-poetry ...
+ ✓ Compiled /women-leisure-poetry in 619ms (450 modules)
+ ✓ Compiled /api/women-leisure-poems in 63ms (259 modules)
+ ✓ Compiled /api/women-poets-identity in 34ms (261 modules)
+[?25h
