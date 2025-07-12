@@ -5,9 +5,70 @@
    ▲ Next.js 14.0.3
    - Local:        http://localhost:3000
 
- ✓ Ready in 1893ms
+ ✓ Ready in 1851ms
+ ✓ Compiled /api/women-leisure-poems in 213ms (41 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+ ✓ Compiled /api/women-poets-identity in 48ms (43 modules)
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
  ○ Compiling /women-leisure-poetry ...
- ✓ Compiled /women-leisure-poetry in 619ms (450 modules)
- ✓ Compiled /api/women-leisure-poems in 63ms (259 modules)
- ✓ Compiled /api/women-poets-identity in 34ms (261 modules)
-[?25h
+ ✓ Compiled /women-leisure-poetry in 533ms (450 modules)
+ ✓ Compiled /api/women-leisure-poems in 41ms (259 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+ ✓ Compiled /api/women-poets-identity in 45ms (261 modules)
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+ ✓ Compiled in 362ms (469 modules)
+ ✓ Compiled in 231ms (450 modules)
+ ✓ Compiled in 102ms (450 modules)
+ ✓ Compiled in 74ms (450 modules)
+ ✓ Compiled in 66ms (450 modules)
+ ✓ Compiled in 69ms (450 modules)
+ ✓ Compiled in 168ms (450 modules)
+ ✓ Compiled in 74ms (450 modules)
+ ✓ Compiled in 84ms (450 modules)
+ ✓ Compiled in 182ms (450 modules)
+ ✓ Compiled in 73ms (450 modules)
+ ✓ Compiled /api/women-leisure-poems in 78ms (259 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+ ✓ Compiled /api/women-poets-identity in 56ms (261 modules)
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+ ✓ Compiled in 76ms (473 modules)
+ ✓ Compiled in 71ms (473 modules)
+ ✓ Compiled in 66ms (473 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+ ✓ Compiled in 167ms (450 modules)
+ ✓ Compiled in 72ms (450 modules)
+ ✓ Compiled /api/women-leisure-poems in 191ms (259 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+ ✓ Compiled /api/women-poets-identity in 49ms (261 modules)
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+ ✓ Compiled / in 359ms (491 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 544ms (276 modules)
+ ✓ Compiled /api/women-leisure-poems in 42ms (295 modules)
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+Loaded 839 poems from /Users/anthony/Dev/TravelWeb/data/processed/women_leisure_poems.json
+ ✓ Compiled /api/women-poets-identity in 43ms (297 modules)
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json
+Loaded 28 poet identities from /Users/anthony/Dev/TravelWeb/data/processed/women_poets_identity.json

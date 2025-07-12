@@ -1,4 +1,4 @@
-INFO:     Started server process [49829]
+INFO:     Started server process [51773]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
@@ -200,8 +200,14 @@ Loaded 嘉兴: 3 records
 Loaded 徐州: 73 records
 Total loaded 191 cities with 22364 records
 Data loading completed.
-INFO:     127.0.0.1:57733 - "GET / HTTP/1.1" 404 Not Found
-INFO:     Shutting down
-INFO:     Waiting for application shutdown.
-INFO:     Application shutdown complete.
-INFO:     Finished server process [49829]
+INFO:     127.0.0.1:59026 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62378 - "GET /api/poets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62379 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62378 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62381 - "GET /api/poets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62382 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64233 - "GET /api/poets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64234 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64233 - "GET /api/places HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64236 - "GET /api/poets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64237 - "GET /api/places HTTP/1.1" 200 OK
