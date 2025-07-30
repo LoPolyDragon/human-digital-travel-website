@@ -128,45 +128,66 @@ async def get_places(
     period: Optional[str] = None,
     category: Optional[str] = None
 ):
-    """获取地点数据，支持按诗人、时期和类别筛选"""
+    """获取地点数据，支持按诗人、时期和类别筛选，返回聚合后的城市数据"""
     try:
-        filtered_data = []
+        # 处理NaN值，确保JSON序列化不会出错
+        def clean_value(value):
+            if pd.isna(value):
+                return ""
+            return str(value) if value is not None else ""
+        
+        # 按城市聚合数据
+        city_aggregated_data = {}
         
         for city, records in places_data.items():
             # 获取城市坐标
             coordinates = coordinates_data.get(city, {}).get("coordinates", None)
             if not coordinates:
                 continue
-                
+            
+            city_poets = set()
+            filtered_records = []
+            
             for record in records:
                 poet_name = record.get('作家', record.get('诗人', ''))
+                poet_name_clean = clean_value(poet_name)
+                
                 # 只有当指定了诗人时才进行过滤
-                if poet and str(poet_name).strip() != poet:
+                if poet and poet_name_clean != poet:
                     continue
-                # 暂时不过滤时期和类别，因为Excel结构不同
-                # if period and str(record.get('时期', '')).strip() != period:
-                #     continue
-                # if category and str(record.get('类别', '')).strip() != category:
-                #     continue
                 
-                # 处理NaN值，确保JSON序列化不会出错
-                def clean_value(value):
-                    if pd.isna(value):
-                        return ""
-                    return str(value) if value is not None else ""
+                # 收集诗人信息
+                if poet_name_clean:
+                    city_poets.add(poet_name_clean)
                 
-                filtered_data.append({
+                # 构建记录
+                record_data = {
                     'city': city,
-                    'poet': clean_value(poet_name),
+                    'poet': poet_name_clean,
                     'period': clean_value(record.get('皇帝纪年', '')),
                     'year': clean_value(record.get('公元年', '')),
                     'place': clean_value(record.get('地点名胜', '')),
                     'activity': clean_value(record.get('活动', '')),
                     'poem': clean_value(record.get('系年作品', '')),
                     'coordinates': coordinates
-                })
+                }
+                
+                filtered_records.append(record_data)
+            
+            # 只有当有匹配的记录时才添加城市
+            if filtered_records:
+                city_aggregated_data[city] = {
+                    'name': city,
+                    'coordinates': coordinates,
+                    'recordCount': len(filtered_records),
+                    'poets': list(city_poets),
+                    'records': filtered_records
+                }
         
-        return filtered_data
+        # 转换为列表格式，与前端期望的格式匹配
+        aggregated_list = list(city_aggregated_data.values())
+        
+        return aggregated_list
     except Exception as e:
         print(f"Error in get_places: {e}")
         raise

@@ -1,0 +1,20 @@
+{
+  "path": "/Users/anthony/Dev/TravelWeb/deploy",
+  "desc": "This is a static preview page for the Tang Dynasty poets travel visualization web application that displays information about poets' travel routes, poems, and historical context.",
+  "id": "b6945404f3d14a0abd1d527ddfc37e60",
+  "data": {
+    "spaceKey": "b6945404f3d14a0abd1d527ddfc37e60",
+    "connections": {
+      "webIDE": "https://b6945404f3d14a0abd1d527ddfc37e60.ap-singapore.cloudstudio.club",
+      "preview": "https://b6945404f3d14a0abd1d527ddfc37e60--{port}.ap-singapore.cloudstudio.club",
+      "api": "https://b6945404f3d14a0abd1d527ddfc37e60--api.ap-singapore.cloudstudio.club",
+      "pty": "https://b6945404f3d14a0abd1d527ddfc37e60--pty.ap-singapore.cloudstudio.club"
+    }
+  },
+  "config": {
+    "api": "https://b6945404f3d14a0abd1d527ddfc37e60--api.ap-singapore.cloudstudio.club",
+    "pty": "https://b6945404f3d14a0abd1d527ddfc37e60--pty.ap-singapore.cloudstudio.club",
+    "region": "ap-shanghai",
+    "spaceKey": "b6945404f3d14a0abd1d527ddfc37e60"
+  }
+}

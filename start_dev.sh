@@ -26,24 +26,41 @@ if [ ! -f "requirements.txt" ]; then
     echo "❌ 未找到requirements.txt文件"
     exit 1
 fi
-# 安装依赖（如果需要）
-pip3 install -r requirements.txt >/dev/null 2>&1
+# 检查虚拟环境
+if [ ! -d "venv" ]; then
+    echo "📦 创建Python虚拟环境..."
+    python3 -m venv venv
+fi
+# 激活虚拟环境并安装依赖
+source venv/bin/activate
+# 确保所有依赖都已安装
+pip install fastapi==0.104.1 uvicorn==0.24.0 pandas==2.1.3 openpyxl==3.1.2 python-multipart==0.0.6 >/dev/null 2>&1
 # 启动后端
-python3 main.py > ../logs/backend.log 2>&1 &
+python main.py > ../logs/backend.log 2>&1 &
 BACKEND_PID=$!
 cd ..
 
 # 等待后端启动
 echo "⏳ 等待后端服务启动..."
-sleep 5
+sleep 10
 
 # 检查后端是否成功启动
-if curl -s http://localhost:8000/ >/dev/null; then
-    echo "✅ 后端服务启动成功"
-else
-    echo "❌ 后端服务启动失败，请检查logs/backend.log"
-    exit 1
-fi
+echo "⏳ 检查后端服务状态..."
+max_attempts=30
+attempt=0
+while [ $attempt -lt $max_attempts ]; do
+    if curl -s http://localhost:8000/api/health >/dev/null; then
+        echo "✅ 后端服务启动成功"
+        break
+    fi
+    attempt=$((attempt+1))
+    if [ $attempt -eq $max_attempts ]; then
+        echo "❌ 后端服务启动失败，请检查logs/backend.log"
+        exit 1
+    fi
+    echo "⏳ 尝试 $attempt/$max_attempts... (数据加载可能需要一些时间)"
+    sleep 3
+done
 
 # 启动前端服务
 echo "🌐 启动前端服务 (端口3000)..."
